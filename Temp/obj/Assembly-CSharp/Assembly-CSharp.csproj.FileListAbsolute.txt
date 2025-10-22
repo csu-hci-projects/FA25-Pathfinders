@@ -1,0 +1,8 @@
+C:\Users\Nathanael\Unity\CS 462\PathFinders\Temp\bin\Debug\Assembly-CSharp.deps.json
+c:\Users\Nathanael\Unity\CS 462\PathFinders\Temp\bin\Debug\Assembly-CSharp.dll
+c:\Users\Nathanael\Unity\CS 462\PathFinders\Temp\bin\Debug\Assembly-CSharp.pdb
+c:\Users\Nathanael\Unity\CS 462\PathFinders\Temp\obj\Assembly-CSharp\Assembly-CSharp.csproj.AssemblyReference.cache
+c:\Users\Nathanael\Unity\CS 462\PathFinders\Temp\obj\Assembly-CSharp\Assembly-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Nathanael\Unity\CS 462\PathFinders\Temp\obj\Assembly-CSharp\Assembly-CSharp.csproj.CoreCompileInputs.cache
+c:\Users\Nathanael\Unity\CS 462\PathFinders\Temp\obj\Assembly-CSharp\Assembly-CSharp.dll
+c:\Users\Nathanael\Unity\CS 462\PathFinders\Temp\obj\Assembly-CSharp\Assembly-CSharp.pdb
