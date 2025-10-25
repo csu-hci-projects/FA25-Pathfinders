@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 
-public class PressureButtonBridge : MonoBehaviour
+public class DualButtonBridge : MonoBehaviour, IButtonControlled
 {
     [Header("Assign the parent of the 5 platform cubes")]
     public Transform platformParent;

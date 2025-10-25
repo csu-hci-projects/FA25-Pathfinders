@@ -28,3 +28,32 @@ public class MovePlayer : MonoBehaviour
         transform.Translate(x, y, z);
     }
 }
+/*using UnityEngine;
+
+[RequireComponent(typeof(Rigidbody))]
+public class MovePlayer : MonoBehaviour
+{
+    [SerializeField] float speed = 6.0f;
+    private Rigidbody rb;
+
+    private void Awake()
+    {
+        rb = GetComponent<Rigidbody>();
+        rb.constraints = RigidbodyConstraints.FreezeRotation; // Prevent tipping
+    }
+
+    private void FixedUpdate()
+    {
+        float x = Input.GetAxis("Horizontal");
+        float z = Input.GetAxis("Vertical");
+        float y = 0f;
+
+        if (Input.GetKey(KeyCode.Q))
+            y = 1f;
+        else if (Input.GetKey(KeyCode.E))
+            y = -1f;
+
+        Vector3 move = new Vector3(x, y, z).normalized * speed * Time.fixedDeltaTime;
+        rb.MovePosition(rb.position + move);
+    }
+}*/
